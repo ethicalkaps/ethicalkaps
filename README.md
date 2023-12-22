@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/ethicalkaps/ethicalkaps/blob/main/banner.gif" />
+</p>
 <h1 align="center">Hi 👋, I'm Kapil Chaudhary aka EthicalKaps</h1>
 <h3 align="center">Network Support Engineer by profession, Ethical Hacker by Passion</h3>
 
