@@ -10,7 +10,9 @@
 
 - 🌱 I’m currently learning **Python and building AI Security tool in public**
 
-- 📝 I regularly write articles on [https://ethicalkaps.medium.com/](https://ethicalkaps.medium.com/)
+- 📽️ Spreading Security Awareness at Rapid Grasper (https://youtube.com/@rapidgrasper)
+
+- 📝 I write articles on [https://ethicalkaps.medium.com/](https://ethicalkaps.medium.com/)
 
 - 💬 Ask me about **SATCOM, Linux, Python, VAPT, Security**
 
