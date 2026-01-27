@@ -2,19 +2,19 @@
   <img src="https://github.com/ethicalkaps/ethicalkaps/blob/main/banner.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Kapil Chaudhary aka EthicalKaps</h1>
-<h3 align="center">Network Support Engineer by profession, Ethical Hacker by Passion</h3>
+<h3 align="center">Network Support Engineer by profession, Security Enthusiast and Youtube educator(Rapid Grasper) by Passion</h3>
 
 <img align="right" alt="hacking" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <a href="https://twitter.com/ethicalkaps" target="blank"><img src="https://img.shields.io/twitter/follow/ethicalkaps?logo=twitter&style=for-the-badge" alt="ethicalkaps" /></a> </p>
 
-- 🌱 I’m currently learning **Python and on a 100 day Code Challenge**
+- 🌱 I’m currently learning **Python and building AI Security tool in public**
 
 - 📝 I regularly write articles on [https://ethicalkaps.medium.com/](https://ethicalkaps.medium.com/)
 
-- 💬 Ask me about **Pentesting, Linux, Python, VAPT,**
+- 💬 Ask me about **SATCOM, Linux, Python, VAPT, Security**
 
-- 📫 How to reach me **anonyethical3067@gmail.com**
+- 📫 How to reach me **rapidgrasper@gmail.com**
 
 - ⚡ Fun fact **I love Guitar, I don't why its not vice-versa 😅**
 
