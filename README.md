@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/ethicalkaps" target="blank"><img src="https://img.shields.io/twitter/follow/ethicalkaps?logo=twitter&style=for-the-badge" alt="ethicalkaps" /></a> </p>
 
-- 🌱 I’m currently learning **Python and building AI Security tool in public**
+- 🌱 I’m currently learning **Governance Risk and Compliance**
 
 - 📽️ Spreading Security Awareness at Rapid Grasper (https://youtube.com/@rapidgrasper)
 
 - 📝 I write articles on [https://ethicalkaps.medium.com/](https://ethicalkaps.medium.com/)
 
-- 💬 Ask me about **SATCOM, Linux, Python, VAPT, Security**
+- 💬 Ask me about **GRC, SATCOM, Linux, Python, VAPT, Security**
 
 - 📫 How to reach me **rapidgrasper@gmail.com**
 
