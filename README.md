@@ -2,7 +2,7 @@
   <img src="https://github.com/ethicalkaps/ethicalkaps/blob/main/banner.gif" />
 </p>
 <h1 align="center">Hi 👋, I'm Kapil Chaudhary aka EthicalKaps</h1>
-<h3 align="center">Network Support Engineer by profession, Security Enthusiast and Youtube educator(Rapid Grasper) by Passion</h3>
+<h3 align="center">Network Security Operations by profession, Security Enthusiast and Youtube educator(Rapid Grasper) by Passion</h3>
 
 <img align="right" alt="hacking" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
